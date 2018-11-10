@@ -1,0 +1,17 @@
+{
+  "name": "ferodb",
+  "version": "0.1.0",
+  "description": "A front-end read-only database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "read-only",
+    "front-end"
+  ],
+  "author": "Dan Steren <daniel.d.steren@gmail.com> (https://github.com/dansteren)",
+  "license": "MIT"
+}
