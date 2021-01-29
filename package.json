@@ -1,5 +1,5 @@
 {
-  "name": "ferodb",
+  "name": "project",
   "version": "0.1.0",
   "description": "A front-end read-only database",
   "main": "index.js",
@@ -13,5 +13,8 @@
     "front-end"
   ],
   "author": "Dan Steren <daniel.d.steren@gmail.com> (https://github.com/dansteren)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ferodb": "dansteren/ferodb"
+  }
 }
